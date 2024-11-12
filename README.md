@@ -1,7 +1,7 @@
 
 ## Olá, meu nome é Pedro! 👋
 
-### Atualmente estou cursando sistemas da informação no CEFET-RJ, e conclui o ensino medio integrado a informatica no IFRJ.
+### Atualmente, estou cursando a graduação em Sistemas de Informação no CEFET-RJ e concluí o ensino médio integrado em Informática no IFRJ.
 
 #### Minhas redes sociais:
 
