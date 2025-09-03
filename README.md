@@ -6,13 +6,6 @@ Atualmente, curso **Sistemas de Informação** no **CEFET-RJ** e concluí o **En
 
 ---
 
-### 🌐 Redes Sociais  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrosampaiob4/?show_story_unavailable=1)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pbs1097)  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pbs040)  
-
----
-
 ### 💻 Tecnologias que estou aprendendo  
 
 #### Front-end  
