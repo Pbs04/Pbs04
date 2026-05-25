@@ -39,6 +39,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
   <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
 ### 🗄️ Banco de Dados
@@ -55,7 +56,6 @@
   <img align="center" alt="xampp" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white">
   <img align="center" alt="mysqlworkbench" src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
 <!-- ## GitHub Stats 🧑‍💻
 
 [![card](https://github-readme-stats.vercel.app/api?username=pbs04&theme=material-palenight&show_icons=true&card_width=300&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
