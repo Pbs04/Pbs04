@@ -56,9 +56,15 @@
   <img align="center" alt="xampp" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white">
   <img align="center" alt="mysqlworkbench" src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-<!-- ## GitHub Stats 🧑‍💻
+<br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=pbs04&theme=material-palenight&show_icons=true&card_width=300&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbs04&layout=compact&theme=material-palenight)
--->
+## Estatisticas
 
+<tr>
+    <td colspan="2" width="100%" valign="top">
+      <p align="center">
+        <img width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pbs04&show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img width="43%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pbs04&layout=compact&theme=tokyonight&hide_border=true"/>
+      </p>
+    </td>
+  </tr>
