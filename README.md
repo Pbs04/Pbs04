@@ -60,11 +60,13 @@
 
 ## Estatisticas
 
-<tr>
+<!-- <tr>
     <td colspan="2" width="100%" valign="top">
       <p align="center">
         <img width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pbs04&show_icons=true&theme=tokyonight&hide_border=true"/>
         <img width="43%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pbs04&layout=compact&theme=tokyonight&hide_border=true"/>
       </p>
     </td>
-  </tr>
+  </tr> -->
+  
+
